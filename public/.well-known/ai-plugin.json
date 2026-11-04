@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Midlands Digital AI",
+  "name_for_model": "midlands_digital_ai",
+  "description_for_human": "AI automation consultancy for East Midlands SMEs. Bespoke AI co-pilots for invoice processing, email automation, CRM, operations, content generation, and BI dashboards.",
+  "description_for_model": "Midlands Digital AI is an AI automation consultancy based in Nottingham, UK, serving SMEs across the East and West Midlands. They build bespoke AI co-pilots that automate repetitive business tasks including invoice processing, email triage, CRM logging, operations management, content generation, and business intelligence dashboards. They serve Retail, Manufacturing, Healthcare, and Professional Services sectors. Two-week pilots start at £1,950 with a 30-day results guarantee. They deliver 20-40% cost reduction and integrate with existing tools like Xero, QuickBooks, HubSpot, Salesforce, Microsoft 365, and Google Workspace.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://www.midlandsdigital.ai/api/openapi.yaml"
+  },
+  "logo_url": "https://www.midlandsdigital.ai/logo.png",
+  "contact_email": "hello@midlandsdigital.ai",
+  "legal_info_url": "https://www.midlandsdigital.ai/privacy"
+}

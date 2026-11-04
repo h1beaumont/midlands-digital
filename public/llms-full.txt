@@ -1,0 +1,276 @@
+# Midlands Digital — Full Documentation
+
+> Midlands Digital is an AI automation consultancy based in Nottingham, serving SMEs across the East Midlands and West Midlands. We deliver bespoke AI co-pilots for invoice processing, email automation, CRM automation, operations, marketing content, and business intelligence dashboards. Founded on the principle that every SME deserves enterprise-grade AI at half the price of traditional software.
+
+- Website: https://www.midlandsdigital.ai
+- Contact: hello@midlandsdigital.ai
+- Phone: (0115) 647 3980
+- Location: Nottingham, East Midlands, UK
+- Trading as: Sherwood Automations
+
+---
+
+## What We Do
+
+Midlands Digital builds bespoke AI co-pilots that automate repetitive business tasks. Unlike off-the-shelf SaaS products, every solution is tailored to the client's existing workflows, tools, and team structure. We integrate with what businesses already use — Microsoft 365, Google Workspace, Xero, QuickBooks, Sage, HubSpot, Salesforce, Pipedrive — rather than replacing their tools.
+
+Our typical client is an SME with 10-500 employees spending 5+ hours per week on manual, repetitive processes. We reduce that to minutes, delivering 20-40% cost reduction in automated workflows with measurable results within 30 days.
+
+---
+
+## Services in Detail
+
+### Invoice & Finance Automation
+- URL: https://www.midlandsdigital.ai/services/invoice-automation
+- Summary: Automated invoice extraction, reconciliation, cost tracking
+- How it works: AI extracts data from invoices (PDFs, emails, scanned documents) and automatically reconciles with accounting software. Real-time cost tracking flags anomalies and duplicates. Integrates with Xero, QuickBooks, and Sage.
+- Typical time saving: 4-5 hours per day reduced to 15 minutes
+- Best for: Finance teams, accounts payable, property management, any business processing 50+ invoices per month
+- Example: A Nottingham property management firm reduced contractor invoice processing from 4.5 hours/day to 15 minutes, eliminating payment disputes entirely.
+
+### Email Co-Pilot
+- URL: https://www.midlandsdigital.ai/services/email-copilot
+- Summary: AI email triage, response drafting, inquiry handling
+- How it works: Intelligent email classification assigns priority and routes to the right team member. AI drafts responses matching your tone and brand voice. Automated inquiry handling for common questions. Works with Microsoft 365 and Google Workspace.
+- Typical time saving: 2-3 hours per day on email management
+- Best for: Customer service teams, sales teams, property management, professional services, anyone receiving 50+ emails per day
+- Example: An operations manager reduced email triage from 2 hours/day to 20 minutes, with AI drafting 70% of routine responses.
+
+### Sales & CRM Automation
+- URL: https://www.midlandsdigital.ai/services/crm-automation
+- Summary: Lead research, email sequences, CRM logging
+- How it works: Automated lead enrichment pulls company data, social profiles, and recent news. AI generates personalised email sequences. CRM logging happens automatically — no manual data entry. Pipeline scoring recommends next-best-action for each deal.
+- Typical time saving: 8-12 hours per week per sales rep
+- Best for: Sales teams, business development, account management, any team using HubSpot, Salesforce, or Pipedrive
+- Integrations: HubSpot, Salesforce, Pipedrive, LinkedIn Sales Navigator, Apollo, ZoomInfo
+
+### Operations Co-Pilot
+- URL: https://www.midlandsdigital.ai/services/operations
+- Summary: Ticket triage, SOP compliance, task routing
+- How it works: AI classifies incoming tickets and assigns priority based on urgency, type, and SLA requirements. SOP compliance monitoring flags deviations in real time. Intelligent task routing considers team capacity, expertise, and location. Workflow automation handles repetitive operational tasks end-to-end.
+- Typical time saving: 15-20 hours per week across operations teams
+- Best for: Field services, facilities management, IT operations, customer support, logistics
+- Example: A Derby engineering firm automated quality report generation, saving 21 hours/week and reducing errors by 95%.
+
+### Content Generation
+- URL: https://www.midlandsdigital.ai/services/content-generation
+- Summary: Content drafts, campaign briefs, social scheduling
+- How it works: AI generates blog posts, social media content, and marketing copy from minimal inputs. Campaign brief creation automates the creative briefing process. Social media scheduling and optimisation ensures consistent posting. Brand voice training ensures all content matches your existing tone.
+- Typical time saving: 10-15 hours per week for marketing teams
+- Best for: Marketing teams, agencies, small businesses without dedicated content staff, e-commerce businesses needing product descriptions
+- Note: All AI-generated content goes through human review — we augment your team, not replace them.
+
+### BI Dashboards
+- URL: https://www.midlandsdigital.ai/services/bi-dashboards
+- Summary: Board packs, KPI dashboards, predictive insights
+- How it works: Automated board pack generation pulls live data from multiple sources into presentation-ready formats. Real-time KPI dashboards with drill-down capability. Predictive insights use historical patterns to forecast trends. Natural language querying lets non-technical users ask questions of their data.
+- Typical time saving: 6-10 hours per week on reporting
+- Best for: Executive teams, finance directors, operations managers, board-level reporting
+- Example: A Leicester retailer replaced 3 days of monthly report compilation with automated dashboards updating in real time.
+
+---
+
+## Industries We Serve
+
+### Retail
+- URL: https://www.midlandsdigital.ai/sectors/retail
+- Focus areas: Inventory forecasting, customer insights, automated marketing, product descriptions
+- Common automations: Demand forecasting to reduce overstock/stockouts, customer segmentation, personalised email campaigns, automated product descriptions, price optimisation
+- Case study: Nottingham Fashion Group — 16.5 hours/week time saved, £8,400/month cost reduction, 98.5% stock accuracy. No-show rate reduced by 82% and revenue increased by 30% through AI-powered customer engagement.
+
+### Manufacturing
+- URL: https://www.midlandsdigital.ai/sectors/manufacturing
+- Focus areas: Quality control, supply chain, predictive maintenance, compliance documentation
+- Common automations: Quality inspection reporting, supply chain demand planning, maintenance scheduling, automated compliance documentation, production KPI dashboards
+- Case study: Derby Precision Engineering — 21 hours/week saved on manual quality reports, £3,200/month cost reduction, 95% error reduction. Reports delivered same-day instead of 2-3 days.
+
+### Healthcare
+- URL: https://www.midlandsdigital.ai/sectors/healthcare
+- Focus areas: Patient communications, appointment scheduling, compliance, staff optimisation
+- Common automations: Automated patient reminders, intelligent appointment scheduling, compliance documentation, staff rota optimisation, clinical correspondence drafting
+- Case study: Leicester NHS Trust — 32 hours/week saved, no-show rate reduced from 20% to 8%, £5,040/month revenue protected. Patient satisfaction increased by 21%.
+
+### Professional Services
+- URL: https://www.midlandsdigital.ai/sectors/professional-services
+- Focus areas: Document automation, time tracking, client onboarding, knowledge management
+- Common automations: Automated document generation, AI-powered time tracking, streamlined client onboarding workflows, knowledge base search, proposal generation
+- Best for: Accountancy firms, law firms, recruitment agencies, consulting practices, estate agents
+
+### Marketing Automation
+- URL: https://www.midlandsdigital.ai/industries/marketing-automation
+- Focus areas: Content generation, email campaigns, lead nurturing, social media automation
+- Common automations: AI blog and article drafting, personalised email sequences, social media scheduling, lead scoring, campaign analytics
+- Best for: SMEs with small marketing teams who need to scale content output and lead generation
+
+### Process Automation
+- URL: https://www.midlandsdigital.ai/industries/process-automation
+- Focus areas: Document processing, workflow orchestration, data synchronisation, approval routing
+- Common automations: Invoice data extraction, multi-system workflow triggers, automated approvals, exception handling, process analytics
+- Best for: Businesses with high-volume manual data entry, document processing, or multi-system workflows
+
+### Brand Experience
+- URL: https://www.midlandsdigital.ai/industries/brand-experience
+- Focus areas: Brand voice consistency, conversational AI, personalised customer journeys, omnichannel management
+- Common automations: Brand voice AI for content, customer-facing chatbots, personalised journey orchestration, feedback analysis
+- Best for: Growing businesses that need to maintain brand consistency across multiple channels and touchpoints
+
+### Government & Public Sector
+- URL: https://www.midlandsdigital.ai/industries/government
+- Focus areas: Citizen services, case management, compliance, document processing, FOI automation
+- Common automations: Planning application processing, citizen service chatbots, case management triage, compliance monitoring, performance dashboards
+- Best for: Local councils, NHS trusts, housing associations, police forces, and public sector organisations
+- Compliance: GDPR compliant, UK data hosting, WCAG 2.1 AA accessible, Cyber Essentials ready
+
+---
+
+## Locations Served
+
+We're based in Nottingham and serve businesses across the Midlands, with face-to-face meetings available throughout the region. We also work with clients across the UK via remote collaboration.
+
+- [Nottingham](https://www.midlandsdigital.ai/locations/nottingham): Headquarters, serving Nottinghamshire businesses
+- [Derby](https://www.midlandsdigital.ai/locations/derby): Derbyshire manufacturing and professional services
+- [Leicester](https://www.midlandsdigital.ai/locations/leicester): Leicestershire retail and healthcare
+- [Birmingham](https://www.midlandsdigital.ai/locations/birmingham): West Midlands enterprise and SME market
+- [Coventry](https://www.midlandsdigital.ai/locations/coventry): Warwickshire manufacturing and automotive
+- [Lincoln](https://www.midlandsdigital.ai/locations/lincoln): Lincolnshire agriculture and professional services
+- [Northampton](https://www.midlandsdigital.ai/locations/northampton): Northamptonshire logistics and distribution
+
+---
+
+## How We Work
+
+1. **Audit (2 weeks):** We map your workflows, audit existing tools, spot quick wins, and build a fixed-scope plan. You'll see the top 3 automation opportunities with projected time savings and ROI. Cost: included in pilot or available standalone from £2,000.
+
+2. **Pilot (4-6 weeks):** We build and test AI co-pilots with your real data. You see working automations in your actual environment — not demos or mockups. One workflow fully automated with measurable before/after metrics. Cost: from £1,950 for a two-week pilot.
+
+3. **Scale (ongoing):** Roll out proven automations across departments. Monthly optimisation, new automations added as opportunities arise. Continuous improvement based on real usage data. Cost: £4,000-£12,000/month depending on scope.
+
+4. **Train (optional):** Hand over prompts, SOPs, and training to your team. Full documentation and knowledge transfer so you're never dependent on us. We don't force vendor lock-in — you own everything we build. Cost: £3,000-£8,000 one-off.
+
+---
+
+## Pricing
+
+- **Two-Week Pilot:** £1,950 (fixed scope, 1 workflow automated)
+- **Full Implementation:** Typically £2,000-£8,000
+- **Ongoing Optimisation:** £4,000-£12,000/month
+- **Team Training:** £3,000-£8,000 one-off
+- **Guarantee:** Measurable win within 30 days or continued work at no cost
+- All pricing is fixed-scope with clear deliverables — no hidden costs or hourly billing surprises
+- Pricing page: https://www.midlandsdigital.ai/pricing
+- Transparent pricing page: https://www.midlandsdigital.ai/transparent-pricing
+
+---
+
+## Frequently Asked Questions
+
+### Getting Started
+
+**What happens in week 1?**
+We map your workflows, audit existing tools, and identify the top 3 automation opportunities. You'll see quick wins in the first 7 days — typically small automations that save 1-2 hours immediately.
+
+**How long does a typical project take?**
+Rapid Audit: 1-2 weeks. Pilot: 4-8 weeks for first automations. Scale engagements are ongoing monthly with continuous improvements. We aim to deliver measurable wins typically within 30 days or we'll work for free until we do.
+
+**Do I need technical knowledge to work with you?**
+Not at all. We translate technical concepts into business outcomes. You bring domain expertise, we handle the AI and automation. Most of our clients are business owners, finance leads, or operations managers — not IT teams.
+
+**What's the first step to get started?**
+Book a free 30-minute strategy call. We'll discuss your biggest time-wasters, identify 2-3 quick automation wins, and provide a clear next-step proposal — no obligation, no sales pressure.
+
+### Pricing & ROI
+
+**How much does it cost?**
+Rapid Audit: £2-4k (1-2 weeks). Pilot: £6-15k (first automations). Scale: £4-12k/month (ongoing optimisation). Train: £3-8k (team enablement). All fixed-price with clear scopes — no hidden costs or hourly billing surprises.
+
+**How do you measure ROI?**
+We track time saved (hours/week), cost reduction (£/month), error rates, and team feedback. Every engagement includes a measurement framework with clear before/after metrics. Most clients see 20-40% cost reduction in automated workflows.
+
+**What if I don't see results?**
+We aim for measurable wins typically within 30 days. If you don't see documented time savings or cost reduction within the first month, we'll continue working at no additional charge until you do. We've never had to invoke this — but it's there for your peace of mind.
+
+### Technical & Security
+
+**What about data security?**
+All integrations use OAuth or API keys (never passwords). Data stays in your systems — we don't host or store your business data. We follow SOC 2-aligned practices and can work with your IT team on security reviews and compliance requirements.
+
+**Do we need to buy new software?**
+No. We integrate with what you already use (Microsoft 365, Google Workspace, Xero, QuickBooks, HubSpot, Salesforce, etc.). If new tools are needed, we'll recommend cost-effective options and get your approval first. Most automations work with existing systems.
+
+**What AI models do you use?**
+We use OpenAI (GPT-4), Anthropic (Claude), and open-source models depending on your use case, budget, and data sensitivity. We select the most cost-effective, reliable option for each workflow — never forcing a one-size-fits-all solution.
+
+**Will AI replace our team?**
+No. AI handles repetitive tasks so your team can focus on high-value work. We've never seen a client reduce headcount — instead, they redirect capacity to growth activities, customer service, or strategic projects that were previously impossible due to admin burden.
+
+### Industries & Use Cases
+
+**What industries do you serve?**
+Retail, manufacturing, healthcare, professional services, charities, field services, call centres, and eCommerce. If you have repetitive workflows involving data entry, email triage, invoicing, or reporting — we can automate it.
+
+**Do you work with businesses outside the Midlands?**
+Yes. While we're based in Nottingham and serve many Midlands clients, we work with businesses across the UK. We offer face-to-face meetings in Nottingham, Derby, and Leicester, and remote collaboration for clients elsewhere.
+
+**What size businesses do you work with?**
+SMEs with 10-500 employees. Small enough to need cost-effective solutions, large enough to benefit from automation at scale. If you're spending 5+ hours/week on manual processes, we can help.
+
+**Can you automate [specific task]?**
+Probably yes. Common automations: invoice extraction, email triage, CRM updates, report generation, data reconciliation, appointment scheduling, content drafting. If it's repetitive and rule-based (even complex rules), we can automate it.
+
+### Process & Support
+
+**How does procurement work?**
+We provide fixed-price proposals with clear scopes. Most clients use a simple Purchase Order or Master Services Agreement. We're flexible and can work with your procurement process — no enterprise sales complexity.
+
+**Do you offer ongoing support?**
+Yes. Scale tier (£4-12k/month) includes ongoing optimisation, new automations, and support. Train tier hands off systems to your team, but we're available for ad-hoc consulting. We don't force vendor lock-in — you own the automations we build.
+
+**What happens after the project ends?**
+You own the automations. We provide documentation, training, and handoff to your team. Many clients keep us on retainer for continuous improvement, but there's no obligation. Systems we build are designed to run independently — you're never locked in.
+
+---
+
+## Getting Started
+
+- [Free AI Audit](https://www.midlandsdigital.ai/free-ai-audit): Complimentary assessment of automation opportunities for your business
+- [AI Readiness Quiz](https://www.midlandsdigital.ai/ai-readiness-quiz): Discover how ready your business is for AI adoption
+- [Time-Back Calculator](https://www.midlandsdigital.ai/time-calculator): Calculate how much time AI could save your team each week
+- [Two-Week Pilot](https://www.midlandsdigital.ai/pricing): Fixed-scope £1,950 pilot to prove ROI before committing
+- [Contact Us](https://www.midlandsdigital.ai/contact): Get in touch to discuss your automation needs
+- Phone: (0115) 647 3980
+- Email: hello@midlandsdigital.ai
+
+## Resources
+
+- [Blog](https://www.midlandsdigital.ai/blog): AI insights, guides, and success stories for Midlands SMEs
+- [Case Studies](https://www.midlandsdigital.ai/case-studies): Real results from our automation projects
+- [FAQ](https://www.midlandsdigital.ai/faq): Common questions about AI automation for SMEs
+- [Integrations](https://www.midlandsdigital.ai/integrations): Tools and platforms we connect with
+- [Complete Guide to AI for SMEs](https://www.midlandsdigital.ai/complete-guide): Comprehensive guide to implementing AI in your business
+- [AI vs Traditional Software](https://www.midlandsdigital.ai/ai-vs-traditional): How AI automation compares to traditional software solutions
+- [Compare AI Consultants](https://www.midlandsdigital.ai/compare-ai-consultants): How Midlands Digital compares to other AI consultancies
+- [Start Here](https://www.midlandsdigital.ai/start-here): New to AI automation? Start here for a guided introduction
+
+## Featured Articles
+- [What Are AI Agents and How Can They Help Your Business?](https://www.midlandsdigital.ai/blog/what-are-ai-agents-how-can-they-help-your-business): Explains what AI agents are, how they differ from chatbots and RPA, real use cases for SMEs, safety considerations, and getting started
+- [The ROI of Agentic AI Workflows for UK Businesses](https://www.midlandsdigital.ai/blog/roi-agentic-ai-workflows-uk-businesses): Real ROI data from Midlands SMEs including payback periods (4-12 weeks), a DIY ROI calculation framework, and common objections addressed
+
+## Trust & Compliance
+
+- GDPR compliant
+- UK Data Protection Act 2018 compliant
+- SOC 2-aligned practices
+- All data stays in client systems — we don't host or store business data
+- OAuth and API key integrations only — never passwords
+- 30-day results guarantee
+- No vendor lock-in — clients own all automations we build
+- Fixed-price proposals — no hidden costs or hourly billing surprises
+
+## Integrations We Support
+
+- **Accounting:** Xero, QuickBooks, Sage
+- **CRM:** HubSpot, Salesforce, Pipedrive
+- **Productivity:** Microsoft 365, Google Workspace
+- **Communication:** Slack, Microsoft Teams
+- **AI Models:** OpenAI (GPT-4), Anthropic (Claude), open-source models
+- Full integrations list: https://www.midlandsdigital.ai/integrations

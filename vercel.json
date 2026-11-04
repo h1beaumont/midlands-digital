@@ -1,0 +1,37 @@
+{
+  "buildCommand": "vite build",
+  "outputDirectory": "dist/public",
+  "installCommand": "npm install",
+  "functions": {
+    "api/index.js": {
+      "includeFiles": "public/**"
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "/api/index"
+    },
+    {
+      "source": "/(sitemap.xml|robots.txt|llms.txt|llms-full.txt|ai.txt|humans.txt|.well-known/ai-plugin.json)",
+      "destination": "/api/index"
+    },
+    {
+      "source": "/((?!assets/).*)",
+      "destination": "/index.html"
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "midlandsdigital.ai"
+        }
+      ],
+      "destination": "https://www.midlandsdigital.ai/$1",
+      "permanent": true
+    }
+  ]
+}

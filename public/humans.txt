@@ -1,0 +1,24 @@
+/* TEAM */
+Company: Midlands Digital
+Trading As: Sherwood Automations
+Location: Nottingham, East Midlands, UK
+Contact: hello@midlandsdigital.ai
+Phone: (0115) 647 3980
+Site: https://www.midlandsdigital.ai
+
+/* THANKS */
+Our clients across the Midlands for trusting us with their automation.
+
+/* SITE */
+Last update: 2026-03-02
+Language: English (British)
+Standards: HTML5, CSS3, ES2022
+Components: React, TypeScript, Tailwind CSS, Shadcn UI
+Framework: Vite, Express.js
+Database: PostgreSQL with Drizzle ORM
+AI Models: OpenAI GPT-4o-mini
+Hosting: Replit
+Design: Linear/Stripe-inspired, dark mode, Inter typography
+Accessibility: WCAG 2.1 AA, ARIA landmarks, skip navigation
+SEO: Schema.org JSON-LD, OpenGraph, Twitter Cards, XML Sitemap
+Performance: Critical CSS inlining, code splitting, lazy loading, WebP images

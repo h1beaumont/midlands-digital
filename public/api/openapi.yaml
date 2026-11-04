@@ -1,0 +1,191 @@
+openapi: 3.1.0
+info:
+  title: Midlands AI AI API
+  description: >
+    Midlands AI provides bespoke AI automation solutions for SMEs across
+    the East and West Midlands, UK. Services include invoice automation, email
+    co-pilots, CRM automation, operations management, content generation, and
+    BI dashboards. Two-week pilots from £1,950 with a 30-day results guarantee.
+  version: 1.0.0
+  contact:
+    name: Midlands AI
+    email: hello@midlandsai.com
+    url: https://www.midlandsai.co.uk
+  termsOfService: https://www.midlandsai.co.uk/terms
+servers:
+  - url: https://www.midlandsai.co.uk
+    description: Production server
+paths:
+  /api/contact:
+    post:
+      operationId: submitContactForm
+      summary: Submit a contact enquiry
+      description: Send a message to Midlands AI for a free consultation or enquiry about AI automation services.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required:
+                - name
+                - email
+                - message
+              properties:
+                name:
+                  type: string
+                  description: Full name of the enquirer
+                email:
+                  type: string
+                  format: email
+                  description: Email address for reply
+                company:
+                  type: string
+                  description: Company or organisation name
+                phone:
+                  type: string
+                  description: UK phone number
+                painPoint:
+                  type: string
+                  description: Primary business challenge
+                  enum:
+                    - manual-data-entry
+                    - email-overload
+                    - reporting-delays
+                    - customer-follow-ups
+                    - compliance-tracking
+                    - other
+                message:
+                  type: string
+                  description: Details of the enquiry
+      responses:
+        "200":
+          description: Enquiry submitted successfully
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  success:
+                    type: boolean
+                  message:
+                    type: string
+  /api/newsletter-signups:
+    post:
+      operationId: subscribeNewsletter
+      summary: Subscribe to weekly AI insights newsletter
+      description: Sign up for practical AI tips for SME owners. No spam, unsubscribe anytime.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required:
+                - email
+              properties:
+                email:
+                  type: string
+                  format: email
+                  description: Email address for newsletter delivery
+      responses:
+        "200":
+          description: Successfully subscribed
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  success:
+                    type: boolean
+                  message:
+                    type: string
+  /api/blog-posts:
+    get:
+      operationId: listBlogPosts
+      summary: List all blog posts
+      description: Retrieve published blog posts covering AI automation topics across industries and Midlands locations.
+      responses:
+        "200":
+          description: Array of blog posts
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/BlogPost"
+  /api/blog-posts/{slug}:
+    get:
+      operationId: getBlogPost
+      summary: Get a single blog post by slug
+      description: Retrieve a specific blog post by its URL slug.
+      parameters:
+        - name: slug
+          in: path
+          required: true
+          schema:
+            type: string
+          description: URL-friendly blog post identifier
+      responses:
+        "200":
+          description: Blog post details
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/BlogPost"
+        "404":
+          description: Blog post not found
+  /llms.txt:
+    get:
+      operationId: getLlmsSummary
+      summary: Get LLM-friendly site summary
+      description: Returns a structured plain-text summary of Midlands AI for AI models and language models.
+      responses:
+        "200":
+          description: Plain text site summary
+          content:
+            text/plain:
+              schema:
+                type: string
+  /llms-full.txt:
+    get:
+      operationId: getLlmsFullDescription
+      summary: Get detailed LLM-friendly site information
+      description: Returns a comprehensive plain-text description (2000+ words) of Midlands AI services, case studies, FAQs, and contact information for AI models.
+      responses:
+        "200":
+          description: Detailed plain text site description
+          content:
+            text/plain:
+              schema:
+                type: string
+components:
+  schemas:
+    BlogPost:
+      type: object
+      properties:
+        id:
+          type: integer
+        title:
+          type: string
+        slug:
+          type: string
+        excerpt:
+          type: string
+        content:
+          type: string
+        author:
+          type: string
+        category:
+          type: string
+        tags:
+          type: array
+          items:
+            type: string
+        readTime:
+          type: string
+        featured:
+          type: boolean
+        publishedAt:
+          type: string
+          format: date

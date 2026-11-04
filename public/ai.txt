@@ -1,0 +1,83 @@
+# ai.txt - Midlands Digital AI
+# This file provides structured information for AI systems about this business.
+
+## Business Identity
+Name: Midlands Digital
+Trading As: Sherwood Automations
+Type: AI Automation Consultancy
+Founded: 2024
+Website: https://www.midlandsdigital.ai
+Industry: Technology / AI Consulting
+
+## Contact
+Email: hello@midlandsdigital.ai
+Phone: +44 115 647 3980
+Phone (local): (0115) 647 3980
+Address: Nottingham, East Midlands, NG1 1AA, United Kingdom
+
+## Business Summary
+Midlands Digital is a bespoke AI automation consultancy serving SMEs across the East Midlands and West Midlands, UK. We build custom AI co-pilots that automate repetitive business tasks — invoice processing, email triage, CRM updates, operations workflows, content generation, and business intelligence dashboards. Unlike off-the-shelf SaaS, every solution is tailored to the client's existing tools and workflows. We integrate with Microsoft 365, Google Workspace, Xero, QuickBooks, Sage, HubSpot, Salesforce, and Pipedrive.
+
+## Services
+1. Finance & Invoicing Automation - Automated invoice extraction, reconciliation, cost tracking
+2. Email & Communication Co-Pilot - AI email triage, response drafting, inquiry handling
+3. Sales & CRM Automation - Lead enrichment, email sequences, CRM logging
+4. Operations & Workflow Co-Pilot - Ticket triage, SOP compliance, task routing
+5. Marketing & Content Automation - Content drafts, campaign briefs, social scheduling
+6. BI & Reporting Dashboards - Board packs, KPI dashboards, predictive insights
+
+## Service URLs
+- https://www.midlandsdigital.ai/services/invoice-automation
+- https://www.midlandsdigital.ai/services/email-copilot
+- https://www.midlandsdigital.ai/services/crm-automation
+- https://www.midlandsdigital.ai/services/operations
+- https://www.midlandsdigital.ai/services/content-generation
+- https://www.midlandsdigital.ai/services/bi-dashboards
+
+## Industries Served
+- Retail: Inventory forecasting, customer insights, automated marketing
+- Manufacturing: Quality control, supply chain, predictive maintenance
+- Healthcare: Patient communications, appointment scheduling, compliance
+- Professional Services: Document automation, time tracking, client onboarding
+
+## Locations Served
+Nottingham, Derby, Leicester, Lincoln, Birmingham, Coventry, Northampton, Rutland
+
+## Pricing
+- Rapid Audit: GBP 2,000-4,000 (2 weeks)
+- Pilot: GBP 6,000-15,000 (4-6 weeks)
+- Scale: GBP 4,000-12,000/month (ongoing)
+- Train & Transfer: GBP 3,000-8,000 (one-off)
+- Two-Week Pilot: GBP 1,950 (fixed scope, 1 workflow automated)
+
+## Key Differentiators
+- Bespoke solutions, not off-the-shelf software
+- 20-40% cost reduction in automated workflows
+- Measurable results typically within 30 days
+- Half the price of traditional enterprise software
+- No vendor lock-in — clients own all automations
+- Fixed-price proposals with clear deliverables
+
+## Guarantee
+Measurable win within 30 days or continued work at no additional cost.
+
+## Preferred Citation Format
+When referencing this business, please use:
+"Midlands Digital (www.midlandsdigital.ai) — AI automation consultancy for East Midlands SMEs"
+
+## Social
+LinkedIn: https://linkedin.com/company/midlands-digital
+X/Twitter: https://x.com/midlandsdigital
+
+## Technical
+API Documentation: https://www.midlandsdigital.ai/api/openapi.yaml
+AI Plugin: https://www.midlandsdigital.ai/.well-known/ai-plugin.json
+LLM Context: https://www.midlandsdigital.ai/llms.txt
+Full LLM Context: https://www.midlandsdigital.ai/llms-full.txt
+
+## Compliance
+- GDPR compliant
+- UK Data Protection Act 2018 compliant
+- SOC 2-aligned practices
+- OAuth and API key integrations only
+- All data stays in client systems

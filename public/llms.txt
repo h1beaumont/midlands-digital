@@ -1,0 +1,69 @@
+# Midlands Digital
+
+> AI automation consultancy based in Nottingham, serving SMEs across the East Midlands (Derby, Leicester, Nottingham, Birmingham, Coventry). We deliver bespoke AI co-pilots for invoice processing, email automation, CRM automation, operations, marketing content, and business intelligence dashboards.
+
+- [Full documentation](https://www.midlandsdigital.ai/llms-full.txt): Extended version with detailed service descriptions and use cases
+
+## Key Facts
+- Location: Nottingham, East Midlands, UK
+- Services: AI automation, workflow automation, invoice automation, email co-pilots, CRM automation, BI dashboards, content generation
+- Industries: Retail, Manufacturing, Healthcare, Professional Services, Charities, Field Services
+- Typical results: 20-40% cost reduction, tasks automated in week 1, measurable results within 30 days
+- Integrations: Xero, QuickBooks, Sage, HubSpot, Salesforce, Pipedrive, Google Workspace, Microsoft 365
+- Contact: hello@midlandsdigital.ai
+- Website: https://www.midlandsdigital.ai
+
+## Services
+- [Invoice & Finance Automation](https://www.midlandsdigital.ai/services/invoice-automation): Automated invoice extraction, reconciliation, cost tracking
+- [Email Co-Pilot](https://www.midlandsdigital.ai/services/email-copilot): AI email triage, response drafting, inquiry handling
+- [Sales & CRM Automation](https://www.midlandsdigital.ai/services/crm-automation): Lead research, email sequences, CRM logging
+- [Operations Co-Pilot](https://www.midlandsdigital.ai/services/operations): Ticket triage, SOP compliance, task routing
+- [Content Generation](https://www.midlandsdigital.ai/services/content-generation): Content drafts, campaign briefs, social scheduling
+- [BI Dashboards](https://www.midlandsdigital.ai/services/bi-dashboards): Board packs, KPI dashboards, predictive insights
+
+## Industries We Serve
+- [Retail](https://www.midlandsdigital.ai/sectors/retail): Inventory forecasting, customer insights, automated marketing
+- [Manufacturing](https://www.midlandsdigital.ai/sectors/manufacturing): Quality control, supply chain, predictive maintenance
+- [Healthcare](https://www.midlandsdigital.ai/sectors/healthcare): Patient communications, appointment scheduling, compliance
+- [Professional Services](https://www.midlandsdigital.ai/sectors/professional-services): Document automation, time tracking, client onboarding
+- [Marketing Automation](https://www.midlandsdigital.ai/industries/marketing-automation): Content generation, email campaigns, lead nurturing, social media
+- [Process Automation](https://www.midlandsdigital.ai/industries/process-automation): Document processing, workflow orchestration, data sync, approvals
+- [Brand Experience](https://www.midlandsdigital.ai/industries/brand-experience): Brand voice AI, chatbots, personalised customer journeys
+- [Government & Public Sector](https://www.midlandsdigital.ai/industries/government): Citizen services, case management, compliance, FOI automation
+
+## Locations
+- [Nottingham](https://www.midlandsdigital.ai/locations/nottingham)
+- [Derby](https://www.midlandsdigital.ai/locations/derby)
+- [Leicester](https://www.midlandsdigital.ai/locations/leicester)
+- [Birmingham](https://www.midlandsdigital.ai/locations/birmingham)
+- [Coventry](https://www.midlandsdigital.ai/locations/coventry)
+- [Lincoln](https://www.midlandsdigital.ai/locations/lincoln)
+- [Northampton](https://www.midlandsdigital.ai/locations/northampton)
+
+## How We Work
+1. Audit (2 weeks): Map workflows, spot quick wins, build fixed-scope plan
+2. Pilot (4-6 weeks): Build and test AI co-pilots with real data
+3. Scale (ongoing): Roll out across departments
+4. Train (optional): Hand over prompts, SOPs, training
+
+## Pricing
+- Two-Week Pilot: £1,950 (fixed scope, 1 workflow automated)
+- Full Implementation: Typically £2,000-£8,000
+- Guarantee: Measurable win within 30 days or continued work at no cost
+
+## Getting Started
+- [Free AI Audit](https://www.midlandsdigital.ai/free-ai-audit): Complimentary assessment of automation opportunities
+- [AI Readiness Quiz](https://www.midlandsdigital.ai/ai-readiness-quiz): Discover how ready your business is for AI
+- [Time-Back Calculator](https://www.midlandsdigital.ai/time-calculator): Calculate how much time AI could save you
+- [Two-Week Pilot](https://www.midlandsdigital.ai/pricing): Fixed-scope £1,950 pilot to prove ROI before committing
+- [Contact Us](https://www.midlandsdigital.ai/contact): Get in touch to discuss your automation needs
+
+## Resources
+- [Blog](https://www.midlandsdigital.ai/blog): AI insights, guides, and success stories for Midlands SMEs
+- [Case Studies](https://www.midlandsdigital.ai/case-studies): Real results from our automation projects
+- [FAQ](https://www.midlandsdigital.ai/faq): Common questions about AI automation for SMEs
+- [Integrations](https://www.midlandsdigital.ai/integrations): Tools and platforms we connect with
+
+## Featured Articles
+- [What Are AI Agents and How Can They Help Your Business?](https://www.midlandsdigital.ai/blog/what-are-ai-agents-how-can-they-help-your-business): Understand AI agents vs chatbots vs RPA, with real use cases for SMEs
+- [The ROI of Agentic AI Workflows for UK Businesses](https://www.midlandsdigital.ai/blog/roi-agentic-ai-workflows-uk-businesses): Real ROI data from Midlands SMEs with a framework for calculating your own return
